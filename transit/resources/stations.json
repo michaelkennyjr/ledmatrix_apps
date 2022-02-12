@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "18th",
+        "map_id": 40830,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "35th/Archer",
+        "display_name": "35/Archer",
+        "other_names": ["35/Archer", "35th-Archer", "35th-Archer"],
+        "map_id": 40120,
+        "ada": true,
+        "lines": ["Orange"]
+    },
+    {
+        "name": "35th-Bronzeville-IIT",
+        "display_name": "35-Brnz-IIT",
+        "other_names": ["35-Bronzeville-IIT"],
+        "map_id": 41120,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "43rd",
+        "map_id": 41270,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "47th",
+        "lookup_name": "47th (Green)",
+        "map_id": 41080,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "47th",
+        "lookup_name": "47th (Red)",
+        "map_id": 41230,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "51st",
+        "map_id": 40130,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "54th/Cermak",
+        "display_name": "54/Cermak",
+        "other_names": ["54/Cermak"],
+        "destination_display": "54/Cer",
+        "map_id": 40580,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "63rd",
+        "other_names": ["63rd (Red)"],
+        "map_id": 40910,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "69th",
+        "map_id": 40990,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "79th",
+        "map_id": 40240,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "87th",
+        "map_id": 41430,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "95th/Dan Ryan",
+        "display_name": "95/Dan Ryan",
+        "destination_display": "95th",
+        "other_names": ["95th", "95/Dan Ryan"],
+        "map_id": 40450,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Adams/Wabash",
+        "map_id": 40680,
+        "lines": ["Orange", "Green", "Purple", "Pink", "Brown"]
+    },
+    {
+        "name": "Addison",
+        "lookup_name": "Addison (Brown)",
+        "map_id": 41440,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Addison",
+        "lookup_name": "Addison (Red)",
+        "map_id": 41420,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Addison",
+        "lookup_name": "Addison (Blue)",
+        "map_id": 41240,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Argyle",
+        "map_id": 41200,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Armitage",
+        "map_id": 40660,
+        "ada": true,
+        "lines": ["Brown", "Purple"]
+    },
+    {
+        "name": "Ashland",
+        "lookup_name": "Ashland (Orange)",
+        "map_id": 41060,
+        "ada": true,
+        "lines": ["Orange"]
+    },
+    {
+        "name": "Ashland",
+        "lookup_name": "Ashland (Green)",
+        "other_names": ["Ashland/Lake"],
+        "map_id": 40170,
+        "ada": true,
+        "lines": ["Green", "Pink"]
+    },
+    {
+        "name": "Ashland/63rd",
+        "display_name": "Ashland/63",
+        "destination_display": "Ash/63",
+        "other_names": ["Ashland/63", "63rd/Ashland", "63/Ashland"],
+        "map_id": 40290,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Austin",
+        "lookup_name": "Austin (Blue)",
+        "map_id": 40010,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Austin",
+        "lookup_name": "Austin (Green)",
+        "map_id": 41260,
+        "ada": false,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Belmont",
+        "lookup_name": "Belmont (Blue)",
+        "map_id": 40060,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Belmont",
+        "lookup_name": "Belmont (Red)",
+        "map_id": 41320,
+        "ada": true,
+        "lines": ["Red", "Purple", "Brown"]
+    },
+    {
+        "name": "Berwyn",
+        "map_id": 40340,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Bryn Mawr",
+        "map_id": 41380,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "California",
+        "lookup_name": "California (Pink)",
+        "map_id": 40440,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "California",
+        "lookup_name": "California (Green)",
+        "map_id": 41360,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "California",
+        "lookup_name": "California (Blue)",
+        "map_id": 40570,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Central",
+        "lookup_name": "Central (Green)",
+        "map_id": 40280,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Central",
+        "lookup_name": "Central (Purple)",
+        "map_id": 41250,
+        "ada": false,
+        "lines": ["Purple"]
+    },
+    {
+        "name": "Central Park",
+        "map_id": 40780,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "Cermak-Chinatown",
+        "display_name": "Cermak-Chtwn",
+        "map_id": 41000,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Cermak-McCormick Place",
+        "display_name": "Cermak-McCor",
+        "map_id": 41690,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Chicago",
+        "lookup_name": "Chicago (Blue)",
+        "other_names": ["Chicago/Milwaukee"],
+        "map_id": 41410,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Chicago",
+        "lookup_name": "Chicago (Brown)",
+        "other_names": ["Chicago/Franklin"],
+        "map_id": 40710,
+        "ada": true,
+        "lines": ["Brown", "Purple"]
+    },
+    {
+        "name": "Chicago",
+        "lookup_name": "Chicago (Red)",
+        "other_names": ["Chicago/State"],
+        "map_id": 41450,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Cicero",
+        "lookup_name": "Cicero (Pink)",
+        "map_id": 40420,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "Cicero",
+        "lookup_name": "Cicero (Blue)",
+        "map_id": 40970,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Cicero",
+        "lookup_name": "Cicero (Green)",
+        "map_id": 40480,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Clark/Division",
+        "display_name": "Clark/Divisn",
+        "map_id": 40630,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Clark/Lake",
+        "map_id": 40380,
+        "ada": true,
+        "lines": ["Orange", "Green", "Purple", "Pink", "Brown", "Blue"]
+    },
+    {
+        "name": "Clinton",
+        "lookup_name": "Clinton (Blue)",
+        "map_id": 40430,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Clinton",
+        "lookup_name": "Clinton (Green)",
+        "map_id": 41160,
+        "ada": true,
+        "lines": ["Green", "Pink"]
+    },
+    {
+        "name": "Conservatory-Central Park Drive",
+        "display_name": "Conservatory",
+        "other_names": ["Conservatory"],
+        "map_id": 41670,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Cottage Grove",
+        "destination_display": "Cottage",
+        "other_names": ["63rd/Cottage Grove", "63/Cottage Grove", "Cottage Grove/63rd", "Cottage Grove/63"],
+        "map_id": 40720,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Cumberland",
+        "map_id": 40230,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Damen",
+        "lookup_name": "Damen (Pink)",
+        "map_id": 40210,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "Damen",
+        "lookup_name": "Damen (Blue)",
+        "map_id": 40590,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Damen",
+        "lookup_name": "Damen (Brown)",
+        "map_id": 40090,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Davis",
+        "map_id": 40050,
+        "ada": true,
+        "lines": ["Purple"]
+    },
+    {
+        "name": "Dempster",
+        "map_id": 40690,
+        "ada": false,
+        "lines": ["Purple"]
+    },
+    {
+        "name": "Dempster-Skokie",
+        "display_name": "Demp-Skokie",
+        "destination_display": "Skokie",
+        "other_names": ["Skokie"],
+        "map_id": 40140,
+        "ada": true,
+        "lines": ["Yellow"]
+    },
+    {
+        "name": "Diversey",
+        "map_id": 40530,
+        "ada": true,
+        "lines": ["Brown", "Purple"]
+    },
+    {
+        "name": "Division",
+        "other_names": ["Division/Milwaukee"],
+        "map_id": 40320,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Forest Park",
+        "destination_display": "Frst Pk",
+        "map_id": 40390,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Foster",
+        "map_id": 40520,
+        "ada": false,
+        "lines": ["Purple"]
+    },
+    {
+        "name": "Francisco",
+        "map_id": 40870,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Fullerton",
+        "map_id": 41220,
+        "ada": true,
+        "lines": ["Red", "Purple", "Brown"]
+    },
+    {
+        "name": "Garfield",
+        "lookup_name": "Garfield (Green)",
+        "map_id": 40510,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Garfield",
+        "lookup_name": "Garfield (Red)",
+        "map_id": 41170,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Grand",
+        "lookup_name": "Grand (Blue)",
+        "other_names": ["Grand/Milwaukee"],
+        "map_id": 40490,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Grand",
+        "lookup_name": "Grand (Red)",
+        "other_names": ["Grand/State"],
+        "map_id": 40330,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Granville",
+        "map_id": 40760,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Halsted",
+        "lookup_name": "Halsted (Orange)",
+        "map_id": 41130,
+        "ada": true,
+        "lines": ["Orange"]
+    },
+    {
+        "name": "Halsted",
+        "lookup_name": "Halsted (Green)",
+        "map_id": 40940,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Harlem",
+        "lookup_name": "Harlem (North)",
+        "other_names": ["Harlem-O'Hare", "North Harlem", "Harlem/Higgins", "Harlem (Blue North)"],
+        "map_id": 40750,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Harlem",
+        "lookup_name": "Harlem (South)",
+        "other_names": ["Harlem-Congress", "Harlem/Congress", "South Harlem", "Harlem (Blue South)"],
+        "map_id": 40980,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Harlem/Lake",
+        "destination_display": "Harlem",
+        "other_names": ["Harlem (Green)"],
+        "map_id": 40020,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Harold Washington Library-State/Van Buren",
+        "display_name": "H.W. Library",
+        "other_names": ["Harold Washington Library", "Library", "Library-State/Van Buren"],
+        "map_id": 40850,
+        "ada": true,
+        "lines": ["Orange", "Purple", "Pink", "Brown"]
+    },
+    {
+        "name": "Harrison",
+        "map_id": 41490,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Howard",
+        "map_id": 40900,
+        "ada": true,
+        "lines": ["Red", "Purple", "Yellow"]
+    },
+    {
+        "name": "Illinois Medical District",
+        "display_name": "IL Med Dist",
+        "other_names": ["IMD", "Medical Center"],
+        "map_id": 40810,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Indiana",
+        "map_id": 40300,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Irving Park",
+        "lookup_name": "Irving Park (Blue)",
+        "map_id": 40550,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Irving Park",
+        "lookup_name": "Irving Park (Brown)",
+        "map_id": 41460,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Jackson",
+        "lookup_name": "Jackson (Blue)",
+        "map_id": 40070,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Jackson",
+        "lookup_name": "Jackson (Red)",
+        "map_id": 40560,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Jarvis",
+        "map_id": 41190,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Jefferson Park",
+        "display_name": "Jefferson Pk",
+        "map_id": 41280,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Kedzie",
+        "lookup_name": "Kedzie (Orange)",
+        "map_id": 41150,
+        "ada": true,
+        "lines": ["Orange"]
+    },
+    {
+        "name": "Kedzie",
+        "lookup_name": "Kedzie (Pink)",
+        "map_id": 41040,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "Kedzie",
+        "lookup_name": "Kedzie (Brown)",
+        "map_id": 41180,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Kedzie",
+        "lookup_name": "Kedzie (Green)",
+        "map_id": 41070,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Kedzie-Homan",
+        "map_id": 40250,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Kimball",
+        "map_id": 41290,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "King Drive",
+        "map_id": 41140,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Kostner",
+        "map_id": 40600,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "Lake",
+        "other_names": ["Lake (Red)", "Lake/State"],
+        "map_id": 41660,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Laramie",
+        "map_id": 40700,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "LaSalle",
+        "map_id": 41340,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "LaSalle/Van Buren",
+        "display_name": "LaSalle/VB",
+        "map_id": 40160,
+        "ada": false,
+        "lines": ["Orange", "Purple", "Pink", "Brown"]
+    },
+    {
+        "name": "Lawrence",
+        "map_id": 40770,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Linden",
+        "map_id": 41050,
+        "ada": true,
+        "lines": ["Purple"]
+    },
+    {
+        "name": "Logan Square",
+        "map_id": 41020,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Loyola",
+        "map_id": 41300,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Main",
+        "map_id": 40270,
+        "ada": false,
+        "lines": ["Purple"]
+    },
+    {
+        "name": "Merchandise Mart",
+        "display_name": "Merch Mart",
+        "map_id": 40460,
+        "ada": true,
+        "lines": ["Brown", "Purple"]
+    },
+    {
+        "name": "Midway",
+        "display_name": "Midway @",
+        "map_id": 40930,
+        "ada": true,
+        "lines": ["Orange"]
+    },
+    {
+        "name": "Monroe",
+        "lookup_name": "Monroe (Blue)",
+        "map_id": 40790,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Monroe",
+        "lookup_name": "Monroe (Red)",
+        "map_id": 41090,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Montrose",
+        "lookup_name": "Montrose (Blue)",
+        "map_id": 41330,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Montrose",
+        "lookup_name": "Montrose (Brown)",
+        "map_id": 41500,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Morgan",
+        "map_id": 41510,
+        "ada": true,
+        "lines": ["Green", "Pink"]
+    },
+    {
+        "name": "Morse",
+        "map_id": 40100,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "North/Clybourn",
+        "display_name": "North/Clybrn",
+        "map_id": 40650,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "Noyes",
+        "map_id": 40400,
+        "ada": false,
+        "lines": ["Purple"]
+    },
+    {
+        "name": "Oak Park",
+        "lookup_name": "Oak Park (Blue)",
+        "map_id": 40180,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Oak Park",
+        "lookup_name": "Oak Park (Green)",
+        "map_id": 41350,
+        "ada": false,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Oakton-Skokie",
+        "map_id": 41680,
+        "ada": true,
+        "lines": ["Yellow"]
+    },
+    {
+        "name": "O'Hare",
+        "display_name": "O'Hare @",
+        "map_id": 40890,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Paulina",
+        "map_id": 41310,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Polk",
+        "map_id": 41030,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "Pulaski",
+        "lookup_name": "Pulaski (Orange)",
+        "map_id": 40960,
+        "ada": true,
+        "lines": ["Orange"]
+    },
+    {
+        "name": "Pulaski",
+        "lookup_name": "Pulaski (Pink)",
+        "map_id": 40150,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "Pulaski",
+        "lookup_name": "Pulaski (Blue)",
+        "map_id": 40920,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Pulaski",
+        "lookup_name": "Pulaski (Green)",
+        "map_id": 40030,
+        "ada": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Quincy",
+        "other_names": ["Quincy/Wells"],
+        "map_id": 40040,
+        "ada": false,
+        "lines": ["Orange", "Purple", "Pink", "Brown"]
+    },
+    {
+        "name": "Racine",
+        "map_id": 40470,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Ridgeland",
+        "map_id": 40610,
+        "ada": false,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Rockwell",
+        "map_id": 41010,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Roosevelt",
+        "destination_display": "Rosevlt",
+        "map_id": 41400,
+        "ada": true,
+        "lines": ["Red", "Green", "Orange"]
+    },
+    {
+        "name": "Rosemont",
+        "destination_display": "Rosemnt",
+        "map_id": 40820,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Sedgwick",
+        "map_id": 40800,
+        "ada": true,
+        "lines": ["Brown", "Purple"]
+    },
+    {
+        "name": "Sheridan",
+        "map_id": 40080,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "South Blvd",
+        "other_names": ["South Boulevard"],
+        "map_id": 40840,
+        "ada": false,
+        "lines": ["Purple"]
+    },
+    {
+        "name": "Southport",
+        "map_id": 40360,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Sox-35th",
+        "map_id": 40190,
+        "ada": true,
+        "lines": ["Red"]
+    },
+    {
+        "name": "State/Lake",
+        "map_id": 40260,
+        "ada": false,
+        "lines": ["Orange", "Green", "Purple", "Pink", "Brown"]
+    },
+    {
+        "name": "Thorndale",
+        "map_id": 40880,
+        "ada": false,
+        "lines": ["Red"]
+    },
+    {
+        "name": "UIC-Halsted",
+        "destination_display": "UIC",
+        "map_id": 40350,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Washington",
+        "other_names": ["Washington (Blue)"],
+        "map_id": 40370,
+        "ada": false,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Washington/Wabash",
+        "display_name": "Wash/Wabash",
+        "map_id": 41700,
+        "ada": true,
+        "lines": ["Orange", "Green", "Purple", "Pink", "Brown"]
+    },
+    {
+        "name": "Washington/Wells",
+        "display_name": "Wash/Wells",
+        "map_id": 40730,
+        "ada": true,
+        "lines": ["Orange", "Purple", "Pink", "Brown"]
+    },
+    {
+        "name": "Wellington",
+        "map_id": 41210,
+        "ada": true,
+        "lines": ["Brown", "Purple"]
+    },
+    {
+        "name": "Western",
+        "lookup_name": "Western (Orange)",
+        "map_id": 40310,
+        "ada": true,
+        "lines": ["Orange"]
+    },
+    {
+        "name": "Western",
+        "lookup_name": "Western (Pink)",
+        "map_id": 40740,
+        "ada": true,
+        "lines": ["Pink"]
+    },
+    {
+        "name": "Western",
+        "lookup_name": "Western (Brown)",
+        "map_id": 41480,
+        "ada": true,
+        "lines": ["Brown"]
+    },
+    {
+        "name": "Western",
+        "lookup_name": "Western (Blue North)",
+        "other_names": ["Western-O'Hare", "Western/Milwaukee", "Western (North)"],
+        "map_id": 40670,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Western",
+        "lookup_name": "Western (Blue South)",
+        "other_names": ["Western-Congress", "Western/Congress", "Western (South)"],
+        "map_id": 40220,
+        "ada": true,
+        "lines": ["Blue"]
+    },
+    {
+        "name": "Wilson",
+        "map_id": 40540,
+        "ada": true,
+        "lines": ["Red", "Purple"]
+    },
+    {
+        "name": "Loop",
+        "is_nonstation": true,
+        "lines": ["Brown", "Green", "Orange", "Pink", "Purple"]
+    },
+    {
+        "name": "63rd",
+        "other_names": ["63rd Street"],
+        "is_nonstation": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "63/A/C",
+        "is_nonstation": true,
+        "lines": ["Green"]
+    },
+    {
+        "name": "Howard (or Loop)",
+        "destination_display": "How/Lp",
+        "is_nonstation": true,
+        "lines": ["Purple"]
+    },
+    {
+        "name": "Unknown",
+        "other_names": ["See train"],
+        "is_nonstation": true,
+        "lines": ["Red", "Blue", "Brown", "Green", "Orange", "Pink", "Purple", "Yellow"]
+    }
+]

@@ -1,0 +1,475 @@
+[
+    {
+        "lines": ["Red"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Red",
+                        "direction": "North",
+                        "destination": 40900
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "North",
+                        "destination": 41050
+                    },
+                    {
+                        "line": "Red",
+                        "direction": "South",
+                        "destination": 40450
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "South",
+                        "destination": "Loop"
+                    }
+                ],
+                "hide": [1, 3]
+            }
+        ]
+    },
+    {
+        "lines": ["Blue"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Blue",
+                        "direction": "North",
+                        "destination": 40890
+                    },
+                    {
+                        "line": "Blue",
+                        "direction": "South",
+                        "destination": 40390
+                    },
+                    {
+                        "line": "Blue",
+                        "direction": "South",
+                        "destination": 40350
+                    }
+                ],
+                "hide": [2]
+            }
+        ]
+    },
+    {
+        "lines": ["Green"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Green",
+                        "direction": "North",
+                        "destination": 40020
+                    },
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "destination": 40290
+                    },
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "destination": 40720
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lines": ["Orange"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Orange",
+                        "direction": "North",
+                        "destination": "Loop"
+                    },
+                    {
+                        "line": "Orange",
+                        "direction": "South",
+                        "destination": 40930
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lines": ["Red", "Purple"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Red",
+                        "direction": "North",
+                        "destination": 40900
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "North",
+                        "destination": 41050
+                    },
+                    {
+                        "line": "Red",
+                        "direction": "South",
+                        "destination": 40450
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "South",
+                        "destination": "Loop"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lines": ["Brown", "Purple"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Brown",
+                        "direction": "North",
+                        "destination": 41290
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "North",
+                        "destination": 41050
+                    },
+                    {
+                        "line": "Brown",
+                        "direction": "South",
+                        "destination": "Loop"
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "South",
+                        "destination": "Loop"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lines": ["Red", "Purple", "Brown"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Red",
+                        "direction": "North",
+                        "destination": 40900
+                    },
+                    {
+                        "line": "Red",
+                        "direction": "South",
+                        "destination": 40450
+                    }
+                ]
+            },
+            {
+                "page": 1,
+                "patterns": [
+                    {
+                        "line": "Brown",
+                        "direction": "North",
+                        "destination": 41290
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "North",
+                        "destination": 41050
+                    },
+                    {
+                        "line": "Brown",
+                        "direction": "South",
+                        "destination": "Loop"
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "South",
+                        "destination": "Loop"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lines": ["Red", "Green", "Orange"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Red",
+                        "direction": "North",
+                        "destination": 40900
+                    },
+                    {
+                        "line": "Red",
+                        "direction": "South",
+                        "destination": 40450
+                    }
+                ],
+                "panels": {
+                    "left": ["Red"],
+                    "right": ["Red"]
+                }
+            },
+            {
+                "page": 1,
+                "patterns": [
+                    {
+                        "line": "Green",
+                        "direction": "North",
+                        "destination": 40020
+                    },
+                    {
+                        "line": "Orange",
+                        "direction": "North",
+                        "destination": "Loop"
+                    },
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "destination": 40290
+                    },
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "destination": 40720
+                    },
+                    {
+                        "line": "Orange",
+                        "direction": "South",
+                        "destination": 40930
+                    }
+                ],
+                "collapse": [
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "subpatterns": [2, 3],
+                        "subpattern_rgb": ["009B3A", "FFFFFF"],
+                        "destination": "63/A/C",
+                        "destination_rgb": ["565A5C", "565A5C", "565A5C", "009B3A", "565A5C", "FFFFFF"]
+                    }
+                ],
+                "panels": {
+                    "left": ["Green", "Orange"],
+                    "right": ["Green", "Orange"]
+                }
+            }
+        ]
+    },
+    {
+        "lines": ["Orange", "Purple", "Pink", "Brown"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Orange",
+                        "direction": "South",
+                        "destination": 40930
+                    },
+                    {
+                        "line": "Pink",
+                        "direction": "South",
+                        "destination": 40580
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "North",
+                        "destination": 41050
+                    },
+                    {
+                        "line": "Brown",
+                        "direction": "North",
+                        "destination": 41290
+                    }
+                ],
+                "panels": {
+                    "left": ["Orange", "Purple", "Pink"],
+                    "right": ["Brown"]
+                }
+            }
+        ]
+    },
+        {
+        "lines": ["Orange", "Green", "Purple", "Pink", "Brown"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Orange",
+                        "direction": "South",
+                        "destination": 40930
+                    },
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "destination": 40290
+                    },
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "destination": 40720
+                    },
+                    {
+                        "line": "Pink",
+                        "direction": "South",
+                        "destination": 40580
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "North",
+                        "destination": 41050
+                    }
+                ],
+                "collapse": [
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "subpatterns": [1, 2],
+                        "subpattern_rgb": ["009B3A", "FFFFFF"],
+                        "destination": "63/A/C",
+                        "destination_rgb": ["565A5C", "565A5C", "565A5C", "009B3A", "565A5C", "FFFFFF"]
+                    }
+                ],
+                "panels": {
+                    "left": ["Orange", "Green", "Purple", "Pink"],
+                    "right": ["Orange", "Green", "Purple", "Pink"]
+                }
+            },
+            {
+                "page": 1,
+                "patterns": [
+                    {
+                        "line": "Green",
+                        "direction": "North",
+                        "destination": 40020
+                    },
+                    {
+                        "line": "Brown",
+                        "direction": "North",
+                        "destination": 41290
+                    }
+                    
+                ],
+                "panels": {
+                    "left": ["Green", "Brown"],
+                    "right": ["Green", "Brown"]
+                }
+            }
+        ]
+    },
+    {
+        "lines": ["Orange", "Green", "Purple", "Pink", "Brown", "Blue"],
+        "pages": [
+            {
+                "page": 0,
+                "patterns": [
+                    {
+                        "line": "Orange",
+                        "direction": "South",
+                        "destination": 40930
+                    },
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "destination": 40290
+                    },
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "destination": 40720
+                    },
+                    {
+                        "line": "Pink",
+                        "direction": "South",
+                        "destination": 40580
+                    },
+                    {
+                        "line": "Purple",
+                        "direction": "North",
+                        "destination": 41050
+                    }
+                ],
+                "collapse": [
+                    {
+                        "line": "Green",
+                        "direction": "South",
+                        "subpatterns": [1, 2],
+                        "subpattern_rgb": ["009B3A", "FFFFFF"],
+                        "destination": "63/A/C",
+                        "destination_rgb": ["565A5C", "565A5C", "565A5C", "009B3A", "565A5C", "FFFFFF"]
+                    }
+                ],
+                "panels": {
+                    "left": ["Orange", "Green", "Purple", "Pink"],
+                    "right": ["Orange", "Green", "Purple", "Pink"]
+                }
+            },
+            {
+                "page": 1,
+                "patterns": [
+                    {
+                        "line": "Green",
+                        "direction": "North",
+                        "destination": 40020
+                    },
+                    {
+                        "line": "Brown",
+                        "direction": "North",
+                        "destination": 41290
+                    },
+                    {
+                        "line": "Blue",
+                        "direction": "North",
+                        "destination": 40890
+                    },
+                    {
+                        "line": "Blue",
+                        "direction": "South",
+                        "destination": 40390
+                    },
+                    {
+                        "line": "Blue",
+                        "direction": "South",
+                        "destination": 40350
+                    }
+                    
+                ],
+                "hide": [4],
+                "collapse": [
+                    {
+                        "line": "Blue",
+                        "direction": "South",
+                        "subpatterns": [3, 4],
+                        "subpattern_rgb": ["00A1DE", "FFFFFF"],
+                        "destination": "FP/UIC",
+                        "destination_rgb": ["00A1DE", "00A1DE", "565A5C", "FFFFFF", "FFFFFF", "FFFFFF"]
+                    }
+                ],
+                "panels": {
+                    "left": ["Green", "Brown"],
+                    "right": ["Blue"]
+                }
+            }
+        ]
+    }
+]

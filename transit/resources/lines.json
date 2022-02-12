@@ -1,0 +1,60 @@
+[
+    {
+        "line": "Red",
+        "rgb": "C60C30",
+        "main_dest_north": 40900,
+        "main_dest_south": 40450
+    },
+    {
+        "line": "Blue",
+        "rgb": "0079A7",
+        "rgb_note": "Originally 00A1DE; too bright, dimmed to 75%",
+        "main_dest_north": 40890,
+        "main_dest_south": 40390,
+        "other_dest_south": [40350]
+    },
+    {
+        "line": "Brown",
+        "rgb": "62361B",
+        "symbols": ["Brn"],
+        "main_dest_north": 41290,
+        "main_dest_south": "Loop"
+    },
+    {
+        "line": "Green",
+        "rgb": "009B3A",
+        "symbols": ["G"],
+        "main_dest_north": 40020,
+        "main_dest_south": 40290,
+        "other_dest_south": [40720]
+    },
+    {
+        "line": "Orange",
+        "rgb": "F9461C",
+        "symbols": ["O", "Org"],
+        "main_dest_north": "Loop",
+        "main_dest_south": 40930
+    },
+    {
+        "line": "Pink",
+        "rgb": "E27EA6",
+        "symbols": ["Pnk"],
+        "main_dest_north": "Loop",
+        "main_dest_south": 40580
+    },
+    {
+        "line": "Purple",
+        "rgb": "522398",
+        "symbols": ["P", "Pexp"],
+        "main_dest_north": 41050,
+        "main_dest_south": "Loop",
+        "other_dest_south": [40900]
+    },
+    {
+        "line": "Yellow",
+        "rgb": "F9E300",
+        "symbols": ["Y"],
+        "main_dest_north": 40140,
+        "main_dest_south": 40900
+    }
+]
